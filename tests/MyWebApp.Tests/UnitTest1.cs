@@ -20,7 +20,7 @@ namespace MyWebApp.Tests
         [Fact]
         public void Test_hackatown_is_lit()
         {
-            var hackatown2021 = "😢😴😩";
+            var hackatown2021 = "🔥🔥🔥";
             Assert.Equal("🔥🔥🔥", hackatown2021);
         }
     }
